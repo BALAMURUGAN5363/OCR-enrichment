@@ -31,12 +31,6 @@ A powerful OCR (Optical Character Recognition) application that extracts text fr
 
 ---
 
-## 🖼️ Screenshots
-
-(Add your screenshots here: login page, dashboard, upload screen, history view, etc.)
-
----
-
 ## 📦 Installation
 
 ### Backend
